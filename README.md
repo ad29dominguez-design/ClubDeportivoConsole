@@ -28,19 +28,21 @@ Se emplean **clases**, **métodos** y **colecciones** para organizar la informac
 
 5.	Clases principales
 
-Clase	Descripción  	Atributos relevantes
-`Socio`	Representa a un socio del club.	nombre, documento, cuotaPaga
-`Actividad`	Representa una disciplina o actividad del club.	nombre, profesor, cupoMaximo
-`Profesor`	Representa al instructor a cargo de una actividad.	nombre, especialidad
-`Club`	Contiene las listas de socios y actividades, y métodos para gestionarlos.	listaSocios, listaActividades
+Clase	      Descripción  	                                                           Atributos relevantes
+`Socio`	    Representa a un socio del club.	                                          nombre, documento, cuotaPaga
+`Actividad`	Representa una disciplina o actividad del club.	                          nombre, profesor, cupoMaximo
+`Profesor`	Representa al instructor a cargo de una actividad.                        nombre, especialidad
+`Club`	    Contiene las listas de socios y actividades, y métodos para gestionarlos. listaSocios, listaActividades
 
 6. Tecnologías Utilizadas
+   
 - **Lenguaje:** C# (.NET)  
 - **IDE:** Visual Studio / Visual Studio Code  
 - **Paradigma:** Programación Orientada a Objetos (POO)  
 - **Control de versiones:** Git y GitHub  
 
 7.  Resultados Esperados
+   
 - Aplicar correctamente los conceptos de POO en un caso práctico.  
 - Modelar clases y relaciones entre objetos mediante herencia y composición.  
 - Comprender la lógica de encapsulamiento y modularización.  
